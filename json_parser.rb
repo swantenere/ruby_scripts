@@ -1,7 +1,6 @@
 require 'open-uri'
 require 'json'
 
-
 page=1
 result=nil
 per_page=10
